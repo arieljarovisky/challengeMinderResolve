@@ -1,0 +1,55 @@
+{
+  "categories": [
+    {
+      "id": "46265b1f-ffba-5cd2-9d55-36ec7e3ac095",
+      "name": "Compras",
+      "color": null
+    },
+    {
+      "id": "65125b62-8778-5bc8-89ac-098057b9a390",
+      "name": "Trabajo",
+      "color": "#EACDB5"
+    },
+    {
+      "id": "24c202cd-6076-58aa-a2e2-3bc3f7d99428",
+      "name": "Estudios",
+      "color": null
+    },
+    {
+      "id": "c135e963-95be-57c5-926c-fee29681b66d",
+      "name": "Deportes",
+      "color": "#EBD6D8"
+    },
+    {
+      "id": "49078200-32bd-5718-a6e5-5c4e08c0ed9c",
+      "name": "Entretenimiento",
+      "color": "#C2EBB0"
+    },
+    {
+      "id": "c39e10f9-7355-5eac-bdff-99b08f1eb0cc",
+      "name": "Salud",
+      "color": null
+    },
+    {
+      "id": "8c08c709-6f07-544f-8377-f630a5d0a67d",
+      "name": "Familia",
+      "color": null
+    }
+  ],
+  "tasks": [
+    {
+      "id": "cbdb75a0-5808-556b-8f6c-fbe2c162752b",
+      "title": "Festejar el año 2065",
+      "description": "Armar una gran fiesta para el año 2065 🥳💃🎉🎊",
+      "category_id": "49078200-32bd-5718-a6e5-5c4e08c0ed9c",
+      "completed": false
+    },
+    {
+      "id": "3lERNlM",
+      "title": "probando",
+      "description": "terminada",
+      "categoryId": "65125b62-8778-5bc8-89ac-098057b9a390",
+      "completed": true
+    }
+  ]
+}
